@@ -8,7 +8,7 @@ I am a junior CS major student passionate about the world of software!! One of m
 
 *   🌍  I'm based in Washington State
 *   ✉️  You can contact me at [masumiyano0706@gmail.com](mailto:masumiyano0706@gmail.com)
-*   🚀  I'm currently working on Machine Learning
+*   🚀  I'm currently working on TensorFlow Project
 *   🧠  I'm learning Machine Leanring in Pythong and JavaScript
 *   🤝  I'm open to collaborating on Anything!!
 *   ⚡  Recently, I'm really into cooking 🍳
