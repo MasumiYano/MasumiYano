@@ -4,7 +4,7 @@ Hi 👋 My name is Masumi Yano
 Junior CS Student @ University of Washington
 --------------------------------------------
 
-I am a junior CS major student passionate about the world of software!! One of my dreams is to build software that can connect people without a limit of distance. I am learning Java in college, but in the meantime, I also self-teach Front-end technologies such as JavaScript, HTML, and CSS. I have some projects I made with Java, JavaScript, HTML, and CSS.
+I am a junior CS major student passionate about the world of software!! My dreams is to become deep learning engineer. I am learning Java in college, but in the meantime, I also self-teach machine learning technologies such as Python, JavaScript, and TensorFlow. I have many projects I made with Java, JavaScript, HTML, and CSS.
 
 *   🌍  I'm based in Washington State
 *   ✉️  You can contact me at [masumiyano0706@gmail.com](mailto:masumiyano0706@gmail.com)
