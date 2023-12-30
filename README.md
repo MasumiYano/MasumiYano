@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [Tetris - AI](https://github.com/MasumiYano/Tetris-AI)
 
-- 👨‍💻 All of my projects are available at [https://www.yanomasumi.com/](https://www.yanomasumi.com/)
+- 👨‍💻 Here's my portfolio website: [https://www.yanomasumi.com/](https://www.yanomasumi.com/)
 
 - 📫 How to reach me **masumi76@uw.edu**
 
