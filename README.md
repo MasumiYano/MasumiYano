@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects!**
 
-- 🤝 I’m looking for help with [Tetris - AI](https://github.com/MasumiYano/Tetris-AI)
+- 🤝 I’m looking for help with [Oh-here-is-waldo](https://github.com/MasumiYano/oh-here-is-waldo)
 
 - 👨‍💻 Here's my portfolio website: [https://www.yanomasumi.com/](https://www.yanomasumi.com/)
 
