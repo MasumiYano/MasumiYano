@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Masumi Yano</h1>
-<h3 align="center">Computer Science Student | Machine Learning Researcher | Software Developer</h3>
+<h3 align="center">Machine Learning Researcher | Deep Learning Engineer | Computer Science Student</h3>
 
 - 🌱 I’m currently learning **Machine Learning Frameworks**
 
