@@ -11,7 +11,7 @@
   
 - 📫 How to reach me **masumi76@uw.edu**
 
-- ⚡ Fun fact **I'm can speak 3 languages**
+- ⚡ Fun fact **I can speak 4 languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
