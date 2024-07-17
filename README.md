@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Masumi Yano</h1>
 <h3 align="center">Machine Learning Researcher | Deep Learning Engineer | Computer Science Student</h3>
 
-- 🌱 I’m currently learning **Machine Learning Frameworks**
+- 🌱 I’m currently learning **Denoising Deffusion Probalistic Model**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects!**
 
-- 🤝 I’m looking for help with [Oh-here-is-waldo](https://github.com/MasumiYano/oh-here-is-waldo)
+- 🧑‍💻 I’m currently working on [Diffusion Model](https://github.com/MasumiYano/diffusion_model) and [Oh-here's-waldo](https://github.com/MasumiYano/oh-here-is-waldo)
 
-- 👨‍💻 Here's my portfolio website: [https://www.yanomasumi.com/](https://www.yanomasumi.com/)
-
+- 🔎 I'm looking for **PhD School**
+  
 - 📫 How to reach me **masumi76@uw.edu**
 
-- ⚡ Fun fact **I'm recently learning art and its background**
+- ⚡ Fun fact **I'm can speak 3 languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
