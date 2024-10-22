@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Masumi Yano</h1>
 <h3 align="center">Computer Vision Researcher | Deep Learning Engineer | Computer Science Student</h3>
 
+- 💻 Visit my [website](https://masumiyano.github.io)
+
 - 🌱 I’m currently learning **Denoising Deffusion Probalistic Model**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects!**
