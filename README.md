@@ -11,7 +11,7 @@
 
 - 🔎 I'm looking for **PhD School**
   
-- 📫 How to reach me **masumi76@uw.edu**
+- 📫 How to reach me **masumiy76@gmail.com**
 
 - ⚡ Fun fact **my family has widipedia page**
 
