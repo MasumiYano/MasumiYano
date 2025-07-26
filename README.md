@@ -9,7 +9,7 @@
 
 - 🧑‍💻 I’m currently working on [LLM Werewolf](https://github.com/MasumiYano/LLMwerewolf)
 
-- 🔎 I'm looking for **PhD School**
+- 🔎 I'm looking for **MLE role or SDE role**
   
 - 📫 How to reach me **masumiy76@gmail.com**
 
