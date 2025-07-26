@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects!**
 
-- 🧑‍💻 I’m currently working on [Diffusion Model](https://github.com/MasumiYano/diffusion_model) and [Oh-here's-waldo](https://github.com/MasumiYano/oh-here-is-waldo)
+- 🧑‍💻 I’m currently working on [LLM Werewolf](https://github.com/MasumiYano/LLMwerewolf)
 
 - 🔎 I'm looking for **PhD School**
   
