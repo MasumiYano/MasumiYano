@@ -3,7 +3,7 @@
 
 - 💻 Visit my [website](https://masumiyano.github.io)
 
-- 🌱 I’m currently learning **Denoising Deffusion Probalistic Model**
+- 🌱 I’m currently learning **Designing Machine Learning Systems** by Chip Huyen
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects!**
 
