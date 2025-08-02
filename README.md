@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Masumi Yano</h1>
-<h3 align="center">Computer Vision Researcher | Deep Learning Engineer | Computer Science Student</h3>
+<h3 align="center">Machine Learning Researcher | Machine Leanring Engineer</h3>
 
 - 💻 Visit my [website](https://masumiyano.github.io)
 
