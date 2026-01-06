@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Masumi Yano</h1>
 <h3 align="center">Machine Learning Researcher | Machine Leanring Engineer</h3>
 
-- 💻 Visit my [website](https://masumiyano.github.io)
-
 - 🌱 I’m currently learning **Designing Machine Learning Systems** by Chip Huyen
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects!**
