@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Masumi Yano</h1>
-<h3 align="center">Machine Learning Researcher | Machine Leanring Engineer</h3>
+<h3 align="center">Machine Learning Researcher | Machine Learning Engineer</h3>
 
 - 🌱 I’m currently learning **Designing Machine Learning Systems** by Chip Huyen
 
